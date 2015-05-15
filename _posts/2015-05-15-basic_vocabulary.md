@@ -37,7 +37,7 @@ P.S : There will be a post about the people of crang, but for now lets begin wit
 |--------
 | 8  | sAr    | spear   | 
 |--------
-| 9  | rIz    | flower bud   | 
+| 9  | rIs    | flower bud   | 
 |--------
 | 10  | Oz    | circle, whirlpool   | 
 |--------
