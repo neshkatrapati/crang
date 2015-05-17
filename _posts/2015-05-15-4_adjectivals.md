@@ -68,21 +68,21 @@ The point where the word *splits* is at this moment not very clear and not very 
 
 Although I have listed some of the adjectivals here, Many of the nouns also can act as adjectivals. For example, Let us observe some of the nouns which have been dealt with [here](http://neshkatrapati.github.io/crang/basic_vocabulary/)
 
-| Sno | Word  | Adjectival | Final Form  | Meaning     |
-|:----|:-----:|:----------:|:------------|------------:|
-| 1   | rIs   | Oz	   | r-Oz-Is     | round flower bud   |
+| Sno | Word  | Meaning    | Adjectival | Meaning |Final Form   | Meaning     |
+|:----|:-----:|:----------:|:----------:|:-------:|:------------|------------:|
+| 1   | rIs   | flower bud |  Oz        | circle   | r-Oz-Is    | round flower bud   |
 |--------
-| 2   | kre   | Oz	   | k-Oz-re     | round mouth/ somebody who gossips |
+| 2   | kre   | mouth      |  Oz	| circle   |  k-Oz-re   | round mouth/ somebody who gossips |
 |--------
-| 3   | ti    | Oz	   | t-Oz-i      | round man/fat man  |
+| 3   | ti    | man        | Oz	        | circle   |  t-Oz-i    | round man/fat man  |
 |--------
-| 4   | nul   | Oz	   | n-Oz-ul     | round line/something nonexistent  |
+| 4   | nul   | line       | Oz	        | circle   |  n-Oz-ul   | round line/something nonexistent  |
 |--------
-| 5   | EA    | fU	   | E-f[U]-A    | air fish/~bird   |
+| 5   | EA    | fish       | fU	        | air      | E-f[U]-A   | air fish/~bird   |
 |--------
-| 7   | ti    | ti	   | t(a)-ti-[i] | manly man |
+| 7   | ti    | man        | ti	        | man	   | t(a)-ti-[i | manly man |
 |-------- 
-| 8   | ark   | sAr	   | a-sAr-rk    | spear net/very precise net, a skilled hand at fishing |
+| 8   | ark   | net        | sAr	| spear	   | a-sAr-rk   | spear net/very precise net, a skilled hand at fishing |
 |=======
 {: rules="groups"}
 
